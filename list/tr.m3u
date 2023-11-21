@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0,TRT 1
+https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/ebd672c1-673c-4d31-8eff-24211d5cfdd4/1.m3u8
+#EXTINF:0,KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=5x2o3wnefqch&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:0,STAR TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5x2o7idm9od0&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:0,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:0,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0,TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=5x2oe0cqvgzf&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:0,FOX TV
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1700628284&st=18UAY6mP8iTleQVl_WIGSw
+#EXTINF:0,ATV
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1700615941&st=ma_9p2FOVT5sLTFkW3etkw&sid=5x5k84bssk3h&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:0,BEYAZ TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=5x2olma6toaz&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:0,TV 360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0,NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=5x2orn20j7er&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+#EXTINF:0,HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:0,HABERTURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:0,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,SOZCU TV
+https://www.dailymotion.com/cdn/live/video/x8i9j7s.m3u8?sec=LMe7_gZ8JDfmr45_VSWgVAOySeI0FkxcKQnsk0IM3Lnrsnc72zIbHwauDJS71Gwj&dmTs=177895&dmV1st=7421bf1e-8d3c-454c-9bb6-587d6ce1c457
+#EXTINF:0,CNN TURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:0,HABER GLOBAL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700593057/ei/QalcZdKXMcCni9oP_oGT8As/ip/176.88.31.148/id/6BX-NUzBSp8.1/source/yt_live_broadcast/requiressl/yes/tx/51018865/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxfJiDnIi0eM11IwKeTsBxEj33kcPgUlcKj4_lyNo3GDmuht3HY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAJGGmdUxa299SEPnw_3Ax09DE_58K0gt9KDpefbZuTGRAiAWZE_xPvQ41p4w6n4IgztXcij5v2IUAkAH9OI_r8mndA%3D%3D/file/index.m3u8
+#EXTINF:0,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0,TV8,5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=5x2pqq44t7o3&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+#EXTINF:0,A2TV
+https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1700616278&st=GfKyonx-_XB54c-tngbptg&sid=5x5kq4wq9n7r&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
+#EXTINF:0,TEVE 2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=5x2pukgpfiz8&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+#EXTINF:0,MINIKA GO
+https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1700616323&st=q8uhETqaE6IoZoLq092J3Q&sid=5x5ksk3js3s6&app=be451f3e-b8d8-4edd-8469-1030b5ad7fd3&ce=3
+#EXTINF:0,TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
